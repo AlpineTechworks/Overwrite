@@ -1,3 +1,0 @@
-local Overwrite = {}
-
-return Overwrite
